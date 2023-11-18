@@ -6,7 +6,7 @@ div#banner {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background: url(https://dev-gnxtace.pantheonsite.io/wp-content/uploads/2023/11/Banner.png);
+    background: url(https://dev-gnxtace.pantheonsite.io/wp-content/uploads/2023/11/Banner.png)!important;
     background-size: cover;
     position: relative;
     height: 270px;
